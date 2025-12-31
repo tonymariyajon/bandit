@@ -188,3 +188,7 @@ cat data.txt to see the contents inside the file : Gur cnffjbeq vf 7k16JArUVv5Lx
 use online rot13 decoder to find the flag
 
 flag : 7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4
+
+some of the screenshot
+![WhatsApp Image 2025-12-30 at 21 10 52](https://github.com/user-attachments/assets/471ba816-1500-4a14-93d2-8f12a01ecb1f)
+
